@@ -12,35 +12,7 @@
   /* grid-gap: 10px; */
 }
 
-.header {
-  grid-area: h;
-  background-color: aqua;
-}
-.header img {
-  width:60px;
-}
 
-.nav {
-  grid-area: n;
-  background-color: cadetblue;
-}
 
-.content {
-  grid-area: c;
-  background-color: blueviolet;
-}
 
-.div{
-  font-family: "Lemonada";
-}
-
-.a{
-  font-family: "Lemonada";
-}
-
-@font-face {
-  font-family: "Lemonada";
-  src: local('Lemonada'), url(./Lemonada-VariableFont_wght.ttf) format('truetype');
-
-}
 
