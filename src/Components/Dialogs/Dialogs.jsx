@@ -1,56 +1,45 @@
 import React from 'react';
 import s from "./Dialogs.module.css";
-import { BrowserRouter, NavLink } from 'react-router-dom';
-
-const DialogItems = (props) => {
-    let path = "/dialogs/" + props.id;
-
-    return (
-        <div className={s.dialog}>
-            <NavLink to={path} activeClassName={s.active}>{props.name}</NavLink>
-        </div>
-    )
-}
-
-const Messages = (props) => {
-    return (
-        <div className={s.message}>
-            {props.message}
-        </div>
-    )
-}
+import DialogItems from "./DialogItem/DialogItem";
+import Messages from "./Message/Message";
 
 const Dialogs = (props) => {
 
-    let dialogs = [
-        {id:1, name:"Dio"},
-        {id:2, name:"Jojo"},
-        {id:3, name:"Kars"},
-        {id:4, name:"Wamuu"},
-        {id:5, name:"Caesar"},
-        {id:6, name:"Jean Pierre"}
-    ]
+    let state = props.dialogsPage
 
-    let messages = [
-        {id:1, message:"Wryy"},
-        {id:2, message:"menacing"},
-        {id:3, message:"Dora"},
-        {id:4, message:"Konodioda"}
-    ]
+    let dialogsElements = state.dialogs.map(d => <DialogItems name={d.name} id={d.id} />);
+    let messagesElement = state.messages.map(m => <Messages message={m.message} />);
+    let newMessageText = state.newMessageText
 
-    let dialogsElements = dialogs.map(d => <DialogItems name={d.name} id={d.id} /> );
-    let messagesElement = messages.map(m => <Messages message={m.message}/>);
-      
+    let addMessage = () => {
+        props.addMessage();
+        //props.dispatch(addMessageCreator());
+    };
+
+    let onMessageChange = (e) => {
+        let body = e.target.value
+        props.updateNewMessageText(body);
+    }
+
     return (
-            <div className={s.dialogs}>
-                <div className={s.dialogsItems}>
-                    {dialogsElements}
-                </div>
-                <div classname={s.messages}>
+        <div className={s.dialogs}>
+            <div className={s.dialogsItems}>
+                {dialogsElements}
+            </div>
+            <div classname={s.messages}>
                 <h4>Messages</h4>
-                    {messagesElement}
+                <div>{messagesElement}</div>
+                <div>
+                    <textarea
+                        placeholder="Enter your message"
+                        onChange={onMessageChange}
+                        value={newMessageText} />
+                </div>
+                <div>
+                    <button onClick={addMessage}>Add Post</button>
                 </div>
             </div>
+        </div>
     )
 }
 

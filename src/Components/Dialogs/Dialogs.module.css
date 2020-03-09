@@ -4,7 +4,11 @@
 }
 
 .dialogsItems {
-    padding: 10px;
+    padding: 10px; 
+}
+
+.dialogsItems img{
+    width: 50px;
 }
 
 .dialog{
@@ -18,8 +22,15 @@
 }
 
 .message{
+    right:10px;
     padding:3px;
     color:darksalmon;
+}
+
+.messageTwo{
+    right: 30px;
+    padding:3px;
+    color:darkseagreen;
 }
 
 

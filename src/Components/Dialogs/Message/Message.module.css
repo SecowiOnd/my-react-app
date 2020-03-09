@@ -1,0 +1,14 @@
+.markup{
+    display:grid;
+    grid-template-columns: 2fr 2fr;
+}
+
+.message{
+    padding: 10px; 
+    color: darkseagreen;
+}
+
+.messageTwo{
+    padding: 10px;
+    color: darkturquoise;
+}
