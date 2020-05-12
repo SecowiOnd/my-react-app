@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:my-react-app" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc800886-c5ce-4361-929e-9210fd580168" name="Default Changelist" comment="MapStateToProps - selectors" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="1bVdJJAGUZkIraxxoEojzNR9cp1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HTML-programming-and-other\react-izi-1\src\hoc" />
+      <recent name="D:\HTML-programming-and-other\react-izi-1\src\Components\Users" />
+      <recent name="D:\HTML-programming-and-other\react-izi-1\src\Redux" />
+      <recent name="D:\HTML-programming-and-other\react-izi-1\src\Components\Profile\ProfileInfo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\HTML-programming-and-other\react-izi-1\src\Components\Common\Paginator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.renders wilhour crashing">
+    <configuration name="new post should be added" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Redux/profile-reducer.test.js" />
+      <test-names>
+        <test-name value="new post should be added" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/App.test.js" />
+      <test-names>
+        <test-name value="renders learn react link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="renders wilhour crashing" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/App.test.js" />
+      <test-names>
+        <test-name value="renders wilhour crashing" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.renders wilhour crashing" />
+        <item itemvalue="Jest.renders learn react link" />
+        <item itemvalue="Jest.new post should be added" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc800886-c5ce-4361-929e-9210fd580168" name="Default Changelist" comment="" />
+      <created>1588721121809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588721121809</updated>
+      <workItem from="1588721126003" duration="3382000" />
+      <workItem from="1588807239556" duration="6285000" />
+      <workItem from="1588895993627" duration="3539000" />
+      <workItem from="1589070702967" duration="9733000" />
+      <workItem from="1589155065231" duration="3921000" />
+      <workItem from="1589238477509" duration="3529000" />
+      <workItem from="1589293379974" duration="3430000" />
+      <workItem from="1589304874480" duration="919000" />
+      <workItem from="1589305795789" duration="127000" />
+    </task>
+    <task id="LOCAL-00001" summary="MapStateToProps - selectors">
+      <created>1588721729187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588721729187</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/HTML-programming-and-other/react-izi-1/src/Redux" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MapStateToProps - selectors" />
+    <option name="LAST_COMMIT_MESSAGE" value="MapStateToProps - selectors" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="802" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589075825754">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="802" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1589075825754" />
+    <state x="554" y="107" key="CommitChangelistDialog2" timestamp="1589079168506">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="554" y="107" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1589079168506" />
+    <state x="92" y="92" width="1674" height="896" key="DiffContextDialog" timestamp="1588721989021">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="92" y="92" width="1674" height="896" key="DiffContextDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1588721989021" />
+    <state x="788" y="296" key="FileChooserDialogImpl" timestamp="1589305789701">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="788" y="296" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1589305789701" />
+    <state width="1362" height="259" key="GridCell.Tab.0.bottom" timestamp="1589160437843">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1362" height="259" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1589160437843" />
+    <state width="1362" height="259" key="GridCell.Tab.0.center" timestamp="1589160437843">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1362" height="259" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1589160437843" />
+    <state width="1362" height="259" key="GridCell.Tab.0.left" timestamp="1589160437843">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1362" height="259" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1589160437843" />
+    <state width="1362" height="259" key="GridCell.Tab.0.right" timestamp="1589160437843">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1362" height="259" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1589160437843" />
+    <state x="645" y="211" key="SettingsEditor" timestamp="1588724312982">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="645" y="211" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1588724312982" />
+    <state x="521" y="272" key="Vcs.Push.Dialog.v2" timestamp="1588807964150">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="521" y="272" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1588807964150" />
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1589241811905">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1589241811905" />
+  </component>
+</project>

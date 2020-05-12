@@ -1,0 +1,26 @@
+export const requied = value =>{
+    if(value) return undefined;
+
+    return "Field is required"
+}
+
+
+
+export const maxLengthCreator = (maxLength) => (value) =>{
+    if(value.length > maxLength) return `Max length is ${maxLength} symbols`;
+
+    return undefined;
+}
+
+export const minLengthCreator = (minLength) => (value) =>{
+    if(value.length < minLength) return `Min length is ${minLength} symbols`;
+
+    return undefined;
+}
+
+
+const minLength2= value =>{
+    if(value && value.length < 2) return "Min length is 2 symbols"; 
+
+    return undefined;
+}
